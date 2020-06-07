@@ -1,4 +1,4 @@
 # Deep_Cross
 Deep Cross
 
-version: tensorflow2.0
+tensorflow2.0 version
